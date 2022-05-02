@@ -1,0 +1,3 @@
+inetcpl.cpl -- открыть настройки свойства интернет
+ipconfig /all -- ip
+tracert url - просмотр уровней к хосту
